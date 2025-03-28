@@ -8,7 +8,7 @@
 - [Introduction](#Introduction)
 - [Dataset Overview](#Dataset-Overview)
 - [Project Objective](#Project-Objective)
-- [Data Cleaning](#Data-Cleaning)
+- [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Dashboard](#Dashboard)
 - [Recommendation](#Recommendation)
