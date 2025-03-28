@@ -10,6 +10,7 @@
 - [Project Objective](#Project-Objective)
 - [Data Cleaning](#Data-Cleaning-and-Transformation)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
+- [Dashboard](Dashboard)
 - [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
 
@@ -327,6 +328,10 @@ Average Cleanliness Ratings: Neutral or Dissatisfied: 17,370 passengers vs Satis
 INSIGHTS: Medium distance flights show the highest number of dissatisfied passengers (18,012).
 Short Distance Flights Have High Dissatisfaction, But Not as Much as Medium Distance:
 Short distance flights still contribute significantly to dissatisfaction (16,922), though this is lower than medium distance.
+
+## Dasboard
+- The image below is the Dashboard for my anlysis
+![Picture1](https://github.com/user-attachments/assets/1bdd93f9-9ea9-4f10-b65c-1b84dc438c58)
 
 ## RECOMMENDATION
 Recommendations Based on the Analysis of Passenger Satisfaction
