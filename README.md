@@ -329,7 +329,7 @@ INSIGHTS: Medium distance flights show the highest number of dissatisfied passen
 Short Distance Flights Have High Dissatisfaction, But Not as Much as Medium Distance:
 Short distance flights still contribute significantly to dissatisfaction (16,922), though this is lower than medium distance.
 
-## Dasboard
+## Dashboard
 - The image below is the Dashboard for my anlysis
 ![Picture1](https://github.com/user-attachments/assets/1bdd93f9-9ea9-4f10-b65c-1b84dc438c58)
 
