@@ -6,9 +6,9 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Dataset Overview](#Data-Overview)
+- [Dataset Overview](#Dataset-Overview)
 - [Project Objective](#Project-Objective)
-- [Data Cleaning](#Data-Cleaning-and-Transformation)
+- [Data Cleaning](#Data-Cleaning)
 - [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Dashboard](#Dashboard)
 - [Recommendation](#Recommendation)
