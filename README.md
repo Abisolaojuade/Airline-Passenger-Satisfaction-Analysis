@@ -330,9 +330,10 @@ Short Distance Flights Have High Dissatisfaction, But Not as Much as Medium Dist
 Short distance flights still contribute significantly to dissatisfaction (16,922), though this is lower than medium distance.
 
 ## Dashboard
-- The image below is the Dashboard for my anlysis
+The image below is the Dashboard for my anlysis
 
-![Picture1](https://github.com/user-attachments/assets/1bdd93f9-9ea9-4f10-b65c-1b84dc438c58)
+![Picture1](https://github.com/user-attachments/assets/20f1e31f-d0f4-4270-9d5a-a35be2ed918e)
+
 
 ## RECOMMENDATION
 Recommendations Based on the Analysis of Passenger Satisfaction
